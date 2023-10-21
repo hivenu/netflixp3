@@ -1,0 +1,12 @@
+.bg{
+    background-image: url("assets/coverbg.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.dark{
+    background-color: black;
+}
+.navbar{
+    background-color: rgb(51, 50, 50);
+}
